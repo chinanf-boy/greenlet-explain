@@ -6,9 +6,9 @@ Explanation
 
 > "version": "1.0.0"
 
-[github source](https://github.com/)
+[github source](https://github.com/developit/greenlet)
 
-[english](./README.en.md)
+~~[english](./README.en.md)~~
 
 ---
 
